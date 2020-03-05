@@ -7,3 +7,5 @@ help to do creat sites for special uses and AI tools for developing tools for AI
 It is still being updated and the major set ups haven't been done yet.
 
 If you want to publish some of the tools, please contact me first.
+
+My email: mrlizhuoyou@gmail.com
